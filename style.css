@@ -1,0 +1,20 @@
+html {background-color: grey; overflow: auto;}
+body {overflow: auto;}
+#list {overflow: auto;}
+div {color: white;}
+#popout_20 {background-color: #36393E; position: static;}
+#popout_3157 {background-color: #36393E; position: static;}
+#popout_45 {background-color: #36393E; position: static;}
+#popout_728 {background-color: #36393E; position: static;}
+#popout_10042 {background-color: #36393E; position: static;}
+#popout_83 {background-color: #36393E; position: static;}
+#popout_1577 {background-color: #36393E; position: static;}
+
+.membersWrap-3NUR2t {background-color: #36393E; border-top: 2px solid #5865F2;}
+.avatar-b5OQ1N {border-radius: 50%;}
+
+.section {
+  float: left;
+  margin-left: 50px;
+  border: 2px solid #5865F2;
+}
