@@ -12,6 +12,7 @@ div {color: white;}
 
 .membersWrap-3NUR2t {background-color: #36393E; border-top: 2px solid #5865F2;}
 .avatar-b5OQ1N {border-radius: 50%;}
+.gc-icon {position: absolute; width: 40px; height: 40px;border-radius: 50%; right: 30px; bottom: 20px; box-shadow: 0px 0px 10px 5px #5865F2;}
 
 .section {
   float: left;
